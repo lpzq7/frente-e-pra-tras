@@ -1,0 +1,20 @@
+#boneco {
+    width: 100px;
+    height: 150px;
+    background-color: blue;
+    position: relative;
+    left: 0;
+    border-radius: 50px 50px 0 0;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  
